@@ -1,11 +1,6 @@
-# DigiBP: Digitalisation of Business Processes
+# EAI: Enterprise Application Integration
 
-[![DigiBP GitHub](https://img.shields.io/badge/DigiBP-GitHub-lightgrey.svg?longCache=true)](https://github.com/DigiBP)
-[![DigiBP Portal](https://img.shields.io/badge/DigiBP-Portal-brightgreen.svg?longCache=true)](https://digibp.github.io)
-[![DigiBP Wiki](https://img.shields.io/badge/DigiBP-Wiki-yellow.svg?longCache=true)](https://github.com/DigiBP/digibp.github.io/wiki)
-[![DigiBP Camunda Template](https://img.shields.io/badge/DigiBP-Camunda%20Template-red.svg?longCache=true)](https://github.com/DigiBP/digibp-camunda-template)
-[![DigiBP Camunda Examples](https://img.shields.io/badge/DigiBP-Camunda%20Examples-blue.svg?longCache=true)](https://github.com/DigiBP/digibp-camunda-examples)
+[![EAI GitHub](https://img.shields.io/badge/EAI-GitHub-lightgrey.svg?longCache=true)](https://github.com/enterprise-application-integration)
+[![EAI Portal](https://img.shields.io/badge/EAI-Portal-brightgreen.svg?longCache=true)](https://enterprise-application-integration.github.io)
+[![EAI Wiki](https://img.shields.io/badge/EAI-Wiki-yellow.svg?longCache=true)](https://github.com/enterprise-application-integration/enterprise-application-integration.github.io/wiki)
 
-## Full Documentation
-
-See the [DigiBP Wiki](https://github.com/DigiBP/digibp.github.io/wiki) for full documentation, examples, operational details and other information.
